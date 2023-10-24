@@ -15,4 +15,8 @@ La finalidad del ejercicio es poder poner en práctica todo lo aprendido sobre e
 
 2. Los ataques mortales a hombres de entre 20 y 30 años son menos letales que a los que están entre los 40 y 60 años.
 
+# Limpieza y conclusiones:
+
+Está todo desarrollado con explicaciones y conclusiones en el Jupiter Notebook "Project_Sharks".
+
 
